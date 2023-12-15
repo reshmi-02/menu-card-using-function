@@ -1,0 +1,12 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.head-content{
+    text-align: center;
+    width: 35%;
+    margin: auto;
+    padding: 2% 0%;
+    line-height: 1.5;
+}
